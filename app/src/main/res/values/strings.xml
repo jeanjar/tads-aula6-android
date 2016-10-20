@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">AppCicloDeVida</string>
+
+    <string name="btnActivity">Activity</string>
+    <string name="btnAlertDialog">Alert Dialog</string>
+    <string name="btnItens">Itens</string>
+    <string name="btnRadios">Radios</string>
+    <string name="btnDialog">Dialog</string>
+    <string name="btnDatePickerDialog">Datepicker Dialog</string>
+    <string name="btnTimePickerDialog">Timepicker Dialog</string>
+    <string name="editTextSlave">123</string>
+    <string name="btnSlaveAdicionar">Adicionar</string>
+    <string name="btnSlaveVoltar">Voltar</string>
+    <string name="title_activity_slave">Slave Activity</string>
+    <string name="textoDialogo">Texto do dialogo</string>
+
+
+    <string-array name="listaOpcoes">
+        <item>Opcao 1</item>
+        <item>Opcao 2</item>
+        <item>Opcao 3</item>
+        <item>Opcao 4</item>
+    </string-array>
+</resources>
